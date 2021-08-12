@@ -1,1 +1,1 @@
-Hello World
+Test authentication with Git Bash
